@@ -40,11 +40,5 @@
 
 ---
 
-### 📊 Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayungich&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayungich&layout=compact&theme=tokyonight)
-
----
-
 ### 🌍 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ayungich)
