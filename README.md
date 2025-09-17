@@ -13,7 +13,13 @@
 
 ### 🎓 Образование
 
-[![ВШЭ](https://img.shields.io/badge/НИУ%20ВШЭ-003366?style=for-the-badge&logo=higher_school_of_economics&logoColor=white)](https://www.hse.ru/)  
+<a href="https://www.hse.ru/">
+  <img src="https://www.hse.ru/mirror/pubs/share/522215913" alt="ВШЭ" width="60"/>
+</a>
+<a href="https://cs.hse.ru/">
+  <img src="https://cs.hse.ru/mirror/pubs/share/932022850.svg" alt="ФКН" width="120"/>
+</a>  
+
 Факультет компьютерных наук, Программная инженерия, НИУ ВШЭ — бакалавриат (2023-2027)
 
 ---
