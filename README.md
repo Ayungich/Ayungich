@@ -11,6 +11,13 @@
 
 ---
 
+### 🎓 Образование
+
+[![ВШЭ](https://img.shields.io/badge/НИУ%20ВШЭ-003366?style=for-the-badge&logo=higher_school_of_economics&logoColor=white)](https://www.hse.ru/)  
+Факультет компьютерных наук, Программная инженерия, НИУ ВШЭ — бакалавриат (2023-2027)
+
+---
+
 ### 🛠️ Технологии и инструменты
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
