@@ -12,7 +12,7 @@
 ---
 
 ### 📄 Резюме
-[![Resume](https://img.shields.io/badge/📄_Резюме-PDF-red?style=for-the-badge)](resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Резюме-PDF-red?style=for-the-badge)](Резюме.pdf)
 
 ---
 
