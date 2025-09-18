@@ -11,6 +11,11 @@
 
 ---
 
+### 📄 Резюме
+[![Resume](https://img.shields.io/badge/📄_Резюме-PDF-red?style=for-the-badge)](resume.pdf)
+
+---
+
 ### 🎓 Образование
 
 <a href="https://www.hse.ru/">
