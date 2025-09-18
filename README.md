@@ -1,4 +1,4 @@
-# Привет 👋, я Никита
+# Привет 👋, я Никита!
 
 🎯 Java Backend Developer | Spring Boot | PostgreSQL | Docker  
 
